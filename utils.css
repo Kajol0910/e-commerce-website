@@ -1,0 +1,29 @@
+.text-center {
+  text-align: justify;
+}
+
+.bg-red {
+  background: rgb(87, 70, 70);
+  justify-content: center;
+}
+
+.mx-auto {
+  margin: 0 auto;
+}
+
+.m-w-20 {
+  max-width: 20%;
+}
+
+.flex {
+  display: inline-flex;
+}
+
+.flex-col {
+  flex-direction: column-reverse;
+}
+
+/* Adding border */
+.border {
+  border: 1px solid black;
+}
